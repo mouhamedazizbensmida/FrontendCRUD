@@ -7,7 +7,7 @@ export const environment = {
   /*apiBaseUrl: 'https://hostingdemospringboot-10087108309.development.catalystappsail.com'*/ 
   /*apiBaseUrl: 'http://localhost:8080'*/
   /*apiBaseUrl: 'https://backendcrud-h550.onrender.com'*/
-  apiBaseUrl: https://hostingdemospringboot-10087108309.development.catalystappsail.com
+  apiBaseUrl: "https://hostingdemospringboot-10087108309.development.catalystappsail.com"
   
 };
 
